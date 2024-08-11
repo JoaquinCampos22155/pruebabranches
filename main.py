@@ -1,1 +1,6 @@
 print("nuevo programa main")
+print(20)
+print(2)
+print(2)
+print(2)
+print(2)
